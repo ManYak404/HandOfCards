@@ -2,12 +2,12 @@
 By Ilya Vaschillo
 Date: 4/8/25
 https://manyak404.github.io/HandOfCards/
-**
-Controls: 
+
+**Controls: 
 SPACE to draw from deck. 
 Left Click on card to pick up.
-Left Click again to place in hand or on table.
-**
+Left Click again to place in hand or on table.**
+
 ## Hand Spread
 	Central origin far below camera center to create a circumference of cards. This circle must be big because only a small arc (60 degrees) will be used to display cards on it. To have a bigger arc distance for the cards to 
   spread on the radius must be large. Follow formula arc length=  π/3 r in the case of 60 degrees.
