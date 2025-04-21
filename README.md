@@ -1,6 +1,6 @@
 # Hand of Cards Game Mechanic
 By Ilya Vaschillo  
-Date: 4/8/25  
+Date: 4/20/25  
 https://manyak404.github.io/HandOfCards/  
 
 **Controls: 
