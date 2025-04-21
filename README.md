@@ -1,7 +1,7 @@
 # Hand of Cards Game Mechanic
-By Ilya Vaschillo
-Date: 4/8/25
-https://manyak404.github.io/HandOfCards/
+By Ilya Vaschillo  
+Date: 4/8/25  
+https://manyak404.github.io/HandOfCards/  
 
 **Controls: 
 SPACE to draw from deck.  
