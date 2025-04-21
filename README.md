@@ -4,8 +4,8 @@ Date: 4/8/25
 https://manyak404.github.io/HandOfCards/
 
 **Controls: 
-SPACE to draw from deck. 
-Left Click on card to pick up.
+SPACE to draw from deck. /
+Left Click on card to pick up. /
 Left Click again to place in hand or on table.**
 
 ## Hand Spread
